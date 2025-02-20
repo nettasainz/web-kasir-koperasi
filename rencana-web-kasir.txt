@@ -1,5 +1,10 @@
 RENCANA WEB KASIR
 -membuat menu utama
+ * visi menjadi koperasi yang unggul dan berdaya saing, memberikan kesejahteraan bagi anggota dan masyarakat. misi meningkatkan kualitas sumber daya manusia anggota melalui pendidikan dan pelatihan
+ * nama koperasi : koperasi imut
+   jenis koperasi : simpan pinjam
+   jumlah anggota : 500 orang
+ * Jln Cahyana baru penambongan
 -membuat menu login
 -membuat menu sign-up
 -membuat daftar harga barang
